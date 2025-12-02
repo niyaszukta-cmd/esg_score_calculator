@@ -10,7 +10,7 @@
 # streamlit run streamlit_esg_dashboard_complete.py
 #
 # ============================================================================
-
+pip install PyMuPDF pdfplumber
 import streamlit as st
 import pandas as pd
 import numpy as np
