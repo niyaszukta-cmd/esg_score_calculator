@@ -4,7 +4,7 @@
 # ============================================================================
 # 
 # INSTALLATION:
-pip install streamlit pandas numpy plotly requests beautifulsoup4 PyMuPDF pdfplumber
+#pip install streamlit pandas numpy plotly requests beautifulsoup4 PyMuPDF pdfplumber
 #
 # RUN:
 # streamlit run streamlit_esg_dashboard_complete.py
